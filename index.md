@@ -4,20 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I’m Julie, a researcher passionate about AI for Healthcare and Biomedicine. My goal is to build <strong>intelligent healthcare agent</strong> that can reason across multimodal biomedical data, making healthcare more accessible and equitable. I'm pursuing a Computer Science Master's at UNC Chapel Hill. I hold a B.S. in Applied Statistics and B.A. in French Literature from Chung-Ang University in South Korea.
+
+<hr>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI for healthcare:** Vision Language Model, Multimodal learning, AI Agent
+- **Computational Pathology** 
+
+<hr>
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2025]** Our paper about Alzheimer's Diease diagnosis framework is accepted to NeurIPS Imageomics Workshop.
+- **[May. 2025]** Join **LG AI Research** as Research Scientist Intern!
+- **[Aug. 2024]** I started Computer Science Master's at UNC Chapel Hill
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
