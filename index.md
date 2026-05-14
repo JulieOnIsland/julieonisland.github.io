@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m Julie, a researcher passionate about AI for Healthcare and Biomedicine. My goal is to build <strong>intelligent healthcare agent</strong> that can reason across multimodal biomedical data, making healthcare more accessible and equitable. I'm an incoming CS Ph.D. student at Arizona State University, advised by [Prof. Imon Banerjee](https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/). I'm completing my Master's in Computer Science at UNC Chapel Hill. I hold a B.S. in Applied Statistics and a B.A. in French Literature from Chung-Ang University in South Korea.
+Hi, I’m Julie, a researcher passionate about AI for Healthcare and Biomedicine. My goal is to build <strong>intelligent healthcare agent</strong> that can reason across multimodal biomedical data, making healthcare more accessible and equitable. I'm an incoming CS Ph.D. student at Arizona State University, advised by [Prof. Imon Banerjee](https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/). I completed my Master's in Computer Science at UNC Chapel Hill. I hold a B.S. in Applied Statistics and a B.A. in French Literature from Chung-Ang University in South Korea.
 
 <hr>
 
