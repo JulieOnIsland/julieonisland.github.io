@@ -9,8 +9,6 @@ Hi, I’m Julie, an engineer passionate about AI agent and its evaluation. I com
 <hr>
 
 
-<hr>
-
 ## News
 - **[May. 2026]** Joining **LinkedIn** as an AI/ML Engineer Intern!
 - **[Jan. 2026]** Presented a [poster](https://drive.google.com/file/d/1hMnJokXWkbv88SlsV7-d3_xrufFG25Xg/view?usp=sharing) on smoking-related bladder cancer research at the [Innovate Cancer Data Science Symposium](https://unclineberger.org/event/innovate-cancer-data-science-symposium-2026/), hosted by the UNC Lineberger Cancer Center
